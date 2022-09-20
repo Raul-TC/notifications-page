@@ -2,7 +2,6 @@ import React from 'react'
 
 const Notification = ({username,date,perfilImage,notificationContent,post,notificationGroup,notificationMessage,message,notificationPicture,notificationPictureUrl,newNotification,notificationCount}) => {
   let isNew = notificationCount > 0 ? newNotification : null
-  console.info(isNew)
   return (
     <div className={`${isNew ? "bg-sky-50" : ""} flex justify-between items-center mb-4 rounded-xl py-2 sm:w-[95%] sm:m-auto sm:mb-4`}>
     <span className='w-14 self-start h-14 flex items-center justify-center m-2'><img className='w-11 h-11 object-cover' src={perfilImage} alt={`${username}_image`}/></span>
