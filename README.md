@@ -2,13 +2,13 @@
 
 ### Screenshot
 
-![](./public/assets/desktop-notify.png)
-![](./public/assets/mobile-design-notify.png)
+![](src/desktop-notify.png)
+![](src/mobile-design-notify.png)
 
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/flags-challenge-with-react-aKQGkOCW8P](https://www.frontendmentor.io/solutions/flags-challenge-with-react-aKQGkOCW8P)
+- Solution URL: [https://www.frontendmentor.io/solutions/notification-page-react-tailwind-css-mobile-first-oqae7xmLBD](https://www.frontendmentor.io/solutions/notification-page-react-tailwind-css-mobile-first-oqae7xmLBD)
 - Live Site URL: [https://notify-page-react.netlify.app/](https://notify-page-react.netlify.app/)
 
 ```js
