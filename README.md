@@ -2,13 +2,14 @@
 
 ### Screenshot
 
-![](./src/assets/MainPage.png)
-![](./src/assets/MainPage_DarkMode.png)
+![](./public/assets/desktop-notify.png)
+![](./public/assets/mobile-design-notify.png)
+
 
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/flags-challenge-with-react-aKQGkOCW8P](https://www.frontendmentor.io/solutions/flags-challenge-with-react-aKQGkOCW8P)
-- Live Site URL: [https://countryflagsfrontendmentor.netlify.app/#/flags](https://countryflagsfrontendmentor.netlify.app/#/flags)
+- Live Site URL: [https://notify-page-react.netlify.app/](https://notify-page-react.netlify.app/)
 
 ```js
 const showMessage = () => {
@@ -21,12 +22,8 @@ showMessage();
 ### Built with
 
 - React
-- React Context
-- React Router
-- CSS
-- Flexbox
-- Grid
-- API REST
+- Tailwind CSS
+- Mobile First
 
 ## Author
 
